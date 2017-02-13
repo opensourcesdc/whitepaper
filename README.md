@@ -2,6 +2,7 @@
 Mission: To build a life-sized vehicle capable of completing the Land Transport Authority's test track
 
 Currently looking for:
+
 1. Contributors
 People to contribute code for models on perception, localisation, planning and decison making. If you are Singapore (or willing to fly down), would love help on the vehicle kinematics and hardware too.
 
